@@ -1,4 +1,4 @@
-# chess_game
+# A Game of Chess
 
 * This represents an implementation of a simple chess game in C.
 * Player vs Player.
